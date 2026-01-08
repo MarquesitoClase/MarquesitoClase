@@ -7,9 +7,9 @@ If I don't know how to use something that you need, i will search how to do it, 
 Web Application Development – Higher Technician
 
 ## Current stack
-Know how to work in Spring with java
-Learning JS(typeScript and Reactc actually)
-Work with JSP in my practices
+Know how to work in Spring with java  
+Learning JS(typeScript and Reactc actually)  
+Work with JSP in my practices  
 
 ## Contact
 Email: [Email me](mailto:juan.luis.marquezcan@gmail.com)
