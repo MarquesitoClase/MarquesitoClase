@@ -2,8 +2,8 @@
 Web Developer | Juan Luis Márquez Canedo
 
 ## About me
-Spanish web developer that tries to use clean code ever. Alwais triying to improve if it's posible.
-If I don't know how to use something that you need, i will search how to do it, and i will get it on time.
+Spanish web developer that tries to use clean code ever. Alwais trying to improve if it's possible.
+If I don't know how to use something that you need, i will figure how to do it, and i will get it done on time.
 Web Application Development – Higher Technician
 
 ## Current stack
