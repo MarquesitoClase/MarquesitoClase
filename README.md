@@ -15,4 +15,5 @@ Required internship experience with JSP
 Email: [Email me](mailto:juan.luis.marquezcan@gmail.com)
 
 ## Studies
-Advanced Technician in Web Application Development
+Advanced Technician in Web Application Development  
+Bootcamp P1 Inditex/Once 2025/2026 (in progress)  
