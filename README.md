@@ -7,9 +7,12 @@ If I don't know how to use something that you need, I will figure it out, and i 
 Web Application Development – Higher Technician
 
 ## Current stack
-Know how to work in Spring with java  
-Learning JS(typeScript and Reactc actually)  
-Work with JSP in my practices  
+Experience working with Spring (Java)  
+Currently learning JavaScript (TypeScript and  React)  
+Required internship experience with JSP
 
 ## Contact
 Email: [Email me](mailto:juan.luis.marquezcan@gmail.com)
+
+## Studies
+Advanced Technician in Web Application Development
